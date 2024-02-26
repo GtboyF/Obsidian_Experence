@@ -1,0 +1,10 @@
+{
+  "accentColor": "#2889a9",
+  "cssTheme": "Minimal",
+  "baseFontSize": 22,
+  "textFontFamily": "Arial,Roboto",
+  "monospaceFontFamily": "Sans Serif Collection",
+  "theme": "obsidian",
+  "translucency": true,
+  "nativeMenus": false
+}
