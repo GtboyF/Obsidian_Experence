@@ -298,6 +298,11 @@ public class ${Class_Name} implements Filter {
 
 
 # 接下来学什么
-- [ ] git
+- [x] git
 - [ ] 反射
-- [ ] Vue+elenment 
+- [x] Vue+elenment 
+
+2024 - 3 - 2：
+
+fastjson
+json对象在java这边就是字符串，在js里面就是对象
