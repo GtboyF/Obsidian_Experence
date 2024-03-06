@@ -1,7 +1,10 @@
 
 # 2024 - 3 - 3路线：
 
-maven > mysql > spring >  > mybatis > javaweb项目 > 继续ssm
+`maven > mysql基础 > spring > mybatis > javaWeb小项目>继续ssm`
+
+练习MySQL
+
 [笔记网站](https://www.wolai.com/v5Kuct5ZtPeVBk4NBUGBWF)
 
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aefba3f6540c14cd",
+        "id": "473a4bd41f6cf8ae",
         "type": "tabs",
         "children": [
           {
-            "id": "971033071e1df64c",
+            "id": "a25c773a89caad31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Spring/001_Maven.md",
+                "file": "JAVA/Spring/002_MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "326adbc51b90c0f7",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Spring/001_Maven.md"
+                "file": "JAVA/Spring/002_MySQL.md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Spring/001_Maven.md",
+                "file": "JAVA/Spring/002_MySQL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Spring/001_Maven.md",
+                "file": "JAVA/Spring/002_MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,24 +155,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "971033071e1df64c",
+  "active": "a25c773a89caad31",
   "lastOpenFiles": [
-    "JAVA/Spring/attaachments/Pasted image 20240303222316.png",
-    "JAVA/Spring/attaachments/Pasted image 20240303215450.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306222208.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306221826.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306220732.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306220706.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306220117.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306202313.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306201748.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306200851.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306195337.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306194112.png",
+    "JAVA/Spring/attaachments/Pasted image 20240306193915.png",
+    "JAVA/Spring/002_MySQL.md",
+    "英语/001_每日一句.md",
+    "英语/attaachments",
+    "英语",
+    "JAVA/Spring/000_JB全家桶破解.md",
+    "JAVA/Spring/001_Maven.md",
+    "JAVA/attaachments/使用说明.txt",
+    "JAVA/attaachments",
     "JAVA/Spring/attaachments",
     "408/计算机组成.md",
-    "JAVA/Spring/001_Maven.md",
     "JAVA",
     "JAVA/Spring",
-    "408/attaachments/Pasted image 20240303195231.png",
-    "408/attaachments/Pasted image 20240303195113.png",
-    "408/attaachments/Pasted image 20240303194746.png",
-    "408/attaachments/Pasted image 20240303194635.png",
-    "408/attaachments/Pasted image 20240303194552.png",
-    "408/attaachments/Pasted image 20240303194332.png",
-    "408/attaachments/Pasted image 20240303193910.png",
-    "408/attaachments/Pasted image 20240303193643.png",
-    "408/attaachments/Pasted image 20240303193634.png",
     "408/数据结构.md",
     "408/操作系统.md",
     "408/attaachments",
@@ -190,9 +197,7 @@
     "未命名.md",
     "安徽新华学院大二下学期",
     "ss.md",
-    "JAVA/JavaWeb/attaachments",
     "JavaWeb/未命名.canvas",
-    "Welcome.md",
-    "JAVA/JavaWeb"
+    "Welcome.md"
   ]
 }
