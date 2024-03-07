@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Spring/002_MySQL.md",
+                "file": "JAVA/JavaWeb/002_GIT（GTboy）.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "326adbc51b90c0f7",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Spring/002_MySQL.md"
+                "file": "JAVA/JavaWeb/002_GIT（GTboy）.md"
               }
             }
           },
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Spring/002_MySQL.md",
+                "file": "JAVA/JavaWeb/002_GIT（GTboy）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Spring/002_MySQL.md",
+                "file": "JAVA/JavaWeb/002_GIT（GTboy）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +157,7 @@
   },
   "active": "a25c773a89caad31",
   "lastOpenFiles": [
+    "JAVA/Spring/002_MySQL.md",
     "JAVA/Spring/attaachments/Pasted image 20240306222208.png",
     "JAVA/Spring/attaachments/Pasted image 20240306221826.png",
     "JAVA/Spring/attaachments/Pasted image 20240306220732.png",
@@ -167,8 +168,6 @@
     "JAVA/Spring/attaachments/Pasted image 20240306200851.png",
     "JAVA/Spring/attaachments/Pasted image 20240306195337.png",
     "JAVA/Spring/attaachments/Pasted image 20240306194112.png",
-    "JAVA/Spring/attaachments/Pasted image 20240306193915.png",
-    "JAVA/Spring/002_MySQL.md",
     "英语/001_每日一句.md",
     "英语/attaachments",
     "英语",

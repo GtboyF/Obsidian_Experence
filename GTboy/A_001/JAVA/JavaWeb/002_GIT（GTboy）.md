@@ -307,7 +307,7 @@ kubernetes/swagger.json.unprocessed
 
 > 使用口令登录更好登录
 
-我的githubtoken口令：`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`
+我的githubtoken口令：在password文件中
 
 - 使用idea向远程库分享文件（创建远程库，然后push）
 ![[Pasted image 20240226205238.png]]
